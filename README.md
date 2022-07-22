@@ -7,4 +7,7 @@
 
 Testando o consumo de uma API com Javasctipt e renderrizando resultado na tela
 
+![App Screenshot](https://github.com/Kleitomberg/pokedex/blob/master/testepokedex/pokedexprint.png)
+
+
 
