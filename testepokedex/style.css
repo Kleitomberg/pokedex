@@ -1,0 +1,24 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 52%);
+}
+
+.card{
+    width: 15vw;
+    margin-top: 15px;
+}
+
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+.box {
+    box-sizing: border-box;
+    padding: 1rem;
+    margin: 1rem;
+
+    width: calc((100% / 4) - 2rem); /* calco para descontar a margem da largura do box se aumenta a marge tem que ajustar aqui tb */
+}
